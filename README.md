@@ -20,7 +20,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-We've also created scripts that correspond to each part of the Pluralsight Project that you can access by running `npm run test:partN`, where `N` is any number 2-7.
 
 ## Running end-to-end tests
 
